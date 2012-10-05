@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "webrtc.io-client": "latest",
-    "socket.io": "latest"
+    "socket.io": "latest",
+    "ws": "0.4.x"
   },
   "keywords": [
     "webrtc"
